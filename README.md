@@ -1,5 +1,5 @@
-Этот скрипт помогает вам заснуть
+Этот скрипт помогает заснуть в течении часа
 
-This script helps you fall asleep
+This script helps you fall asleep within an hour
 
-Requirements: MacOS + Home Brew
+Requirements: MacOS + Homebrew
